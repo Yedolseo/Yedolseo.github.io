@@ -1,9 +1,10 @@
 ---
-title: Who is Mike Myers?
-category: People
+title: 뮤직셋톱박스 3D프린팅
+category: 3D Printing
 ---
 
-Michael John "Mike" Myers (born May 25, 1963) is a Canadian-born actor, comedian, screenwriter, and film producer, who also holds UK and US citizenship.[1] He is known for his run as a featured performer on Saturday Night Live from 1989 to 1995, and for playing the title roles in the Wayne's World, Austin Powers, and Shrek films. He also directed the documentary film Supermensch: The Legend of Shep Gordon, and had a small role in Quentin Tarantino's Inglourious Basterds in 2009.
+뮤직셋톱박스 제품을 최종적으로 완성시키기위해 라즈베리파이와 브레드보드를 넣을 수 있도록
+3D프린팅을 이용하여 제작한다.
 
 <!-- more -->
 
