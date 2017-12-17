@@ -1,5 +1,5 @@
 ---
-title: '뮤직 셋톱박스' 제작을 위한 CODE 구현
+title: 뮤직 셋톱박스 제작을 위한 CODE 구현
 category: Code
 ---
 
