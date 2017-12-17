@@ -8,6 +8,8 @@ category: 3D Printing
 
 <!-- more -->
 
+![Lino-design](Yedolseo.github.io/캡처.PNG)
+
 Myers was born on May 25, 1963 in Scarborough, Ontario, the son of English-born parents Eric Myers (1922–1991), an insurance agent, and his wife, Alice E. (née Hind; born 1926), an office supervisor and a veteran of the Royal Air Force.
 
 Both his parents were from Liverpool and he has two older brothers, Paul, an indie rock singer-songwriter, broadcaster and author, and Peter, a Sears Canada employee.
