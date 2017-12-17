@@ -1,14 +1,34 @@
 ---
-title: Who is Dana Carvey?
-category: People
+title:  오픈소스 소프트웨어 1-4주차
+category: OSS
 ---
 
-Dana Thomas Carvey (born June 2, 1955) is an American actor and stand-up comedian known for his work as a cast member on Saturday Night Live and for playing the role of Garth Algar in the Wayne's World films.
+-[OSS] "뮤직셋톱박스" 제작을 위한 라즈베리파이 기능 구현하기 
+-총 1주차부터 4주차까지의 과정들
+ LED / Button / LCD / Music Play
 
 <!-- more -->
 
-Carvey was born in Missoula, Montana, the son of Billie Dahl, a schoolteacher, and Bud Carvey, a high-school business teacher. Carvey is the brother of Brad Carvey, the engineer/designer of the Video Toaster. The character Garth Algar is loosely based on Brad. Carvey has English, German, Irish, Norwegian, and Swedish ancestry, and was raised Lutheran. When he was three years old, his family moved to San Carlos, California, in the San Francisco Bay Area. He received his first drum kit at an early age. He attended Tierra Linda Junior High in San Carlos, Carlmont High School in Belmont, California (where he was a member of the Central Coast Section champion cross country team), College of San Mateo in San Mateo, California, and received his bachelor's degree in broadcast communications from San Francisco State University.
+Week1. LED 구현하기
 
-He had a minor role in Halloween II, and co-starred on One of the Boys in 1982, a short-lived television sitcom that also starred Mickey Rooney, Nathan Lane, and Meg Ryan. In 1984, Carvey had a small role in Rob Reiner's film This Is Spinal Tap, in which he played a mime, with fellow comedian Billy Crystal (who tells him "Mime is money!"). He also appeared in the short-lived film-based action television series Blue Thunder.
+라즈베리파이를 통해 먼저 LED를 구현해보았다.
+빵판에 LED와 선들을 이용하여 제작하였다.
+라즈베리파이 -> python실행 -> 코드구현 -> 코드실행
+
+>> code 
+
+week2. Button 구현하기
+
+뮤직셋톱박스를 실행하기위한 버튼구현이 필요하다.
+
+>>code
+
+week3. LCD 구현하기
+
+>>code
+
+뮤직셋톱박스의 재생화면을 보여주기 위해서는 LCD구현을 필요로 한다.
+
+
 
 _Originally from [Dana Carvey - Wikipedia](https://en.wikipedia.org/wiki/Dana_Carvey)_
