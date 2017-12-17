@@ -1,16 +1,16 @@
 ---
-title: About Garth
+title: About Yedol
 ---
 
-A stupidly simple theme for Jekyll, using the official Jekyll theme implementation.
+Name : ye jin Seo 
+School : Hanyang University erica campus
+Age : 20
+grade : 1
 
-- [Fork on GitHub](https://github.com/daviddarnes/garth)
-- [Install Garth](https://github.com/daviddarnes/garth#installation)
-- [Tip me $5](https://www.paypal.me/daviddarnes/5usd)
 
-## Installation
+## Information
 
-### As a Fork
+### About OSS
 
 1. [Fork the repo](https://github.com/daviddarnes/garth#fork-destination-box)
 2. Clone down the repo with `$ git clone git@github.com:username/reponame.git`
@@ -21,7 +21,7 @@ A stupidly simple theme for Jekyll, using the official Jekyll theme implementati
 7. Run Jekyll with `$ bundle exec jekyll serve --watch`
 8. Begin hacking for your project
 
-### As a Jekyll 3.3 theme gem
+### About PBL
 
 1. Download the starter `/demo` content, [quick download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/daviddarnes/garth/tree/master/demo)
 2. Install bundler with `$ gem install bundler`
