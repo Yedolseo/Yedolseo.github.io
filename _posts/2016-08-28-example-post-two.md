@@ -1,10 +1,10 @@
 ---
-title: 뮤직셋톱박스 3D프린팅
+title: Music set top box 3D printing
 category: 3D Printing
 ---
 
-뮤직셋톱박스 제품을 최종적으로 완성시키기위해
-라즈베리파이와 브레드보드를 넣을 수 있도록 3D프린팅을 이용하여 제작한다.
+In order to finalize the music set top box product,
+3D printing is used to put raspberry pie and breadboard.
 
 <!-- more -->
 
