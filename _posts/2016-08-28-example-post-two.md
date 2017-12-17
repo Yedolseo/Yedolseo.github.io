@@ -9,7 +9,6 @@ category: 3D Printing
 <!-- more -->
 
 <span class="image left"><img src="{{ "/캡처.PNG" | absolute_url }}" alt="" /></span>
-
 ![Lino-design](Yedolseo.github.io/캡처.PNG)
 
 
