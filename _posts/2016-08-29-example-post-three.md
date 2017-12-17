@@ -1,17 +1,102 @@
 ---
-title: Who is Dana Carvey?
+title: '뮤직 셋톱박스' 제작을 위한 CODE 구현
 category: Code
 ---
+
+뮤직 셋톱박스 제작및 음악 재생을 위한 
+Button / LCD / Music Player 코드 구현하기
+
+
+<!-- more -->
+
+　
+
+- VLC
+
+```
+import RPi.GPIO as GPIO
+import time
+import vlc
+
+GPIO.setmode(GPIO.BCM)
+GPIO.setup(18, GPIO.IN)
+GPIO.setup(23, GPIO.IN)
+ 
+file ="/home/pi/Desktop/phone_10cm.mp3"
+instance = vlc.Instance()
+ 
+player=instance.media_player_new()
+media=instance.media_new(file)
+ 
+player.set_media(media)
+
+player.play()
+time.sleep(1)
+ 
+while True:
+    a=player.get_state()
+    
+    if GPIO.input(18) == 0:
+        if a == 3:
+            player.pause()
+            a=player.get_state()
+            print"pause"
+        elif a == 4:
+            player.pause()
+            a = player.get_state()
+            print"resume"
+            
+    time.sleep(0.5)
+ 
+    if GPIO.input(23) == 0:
+        player.stop()
+        break
+```
+
+
+　
+
+- Button
+
+```
+import time
+import RPi.GPIO as GPIO
+
+GPIO.setmode(GPIO.BCM)
+
+GPIO.setup(23, GPIO.OUT)
+GPIO.setup(24, GPIO.OUT)
+
+GPIO.setup(18, GPIO.IN)
+
+print("Button pressed!")
+
+try:
+    while True:
+        GPIO.output(23,False)
+        GPIO.output(24,False)
+
+    if GPIO.input(18)==0:
+        print("Button pressed!")
+
+        GPIO.output(23, True)
+        GPIO.output(24,True)
+
+        time.sleep(1)
+
+        print("Press the button (CTL-C to exit)")
+
+except KeyboardInterrupt:
+    GPIO.cleanup()
+```
+　
+
+- Music Player Code 
 
 ```
 #!/usr/bin/python
 #--------------------------------------
-#    ___  ___  _ ____
-#   / _ \/ _ \(_) __/__  __ __
-#  / , _/ ___/ /\ \/ _ \/ // /
-# /_/|_/_/  /_/___/ .__/\_, /
-#                /_/   /___/
-#
+
 #  lcd_i2c.py
 #  LCD test script using I2C backpack.
 #  Supports 16x2 and 20x4 screens.
