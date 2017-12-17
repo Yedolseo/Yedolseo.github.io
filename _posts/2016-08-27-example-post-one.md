@@ -10,4 +10,6 @@ Music set-top box final presentation video and presentation
 
 - 발표영상
 
+![Youtube](https://youtu.be/3i_ZC3cKpwo)
+
 - PPT 발표
