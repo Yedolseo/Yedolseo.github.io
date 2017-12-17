@@ -50,6 +50,7 @@ while True:
     if GPIO.input(23) == 0:
         player.stop()
         break
+        
 ```
 
 
