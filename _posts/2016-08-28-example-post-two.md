@@ -9,7 +9,7 @@ In order to finalize the music set top box product,
 <!-- more -->
 
 <span class="image left"><img src="{{ "/캡처.PNG" | absolute_url }}" alt="" /></span>
-
+![lino](Yedolseo.github.io/_posts/캡처.PNG)
 
 
 <span class="image left"><img src="{{ "/그림1.PNG" | absolute_url }}" alt="" /></span>
