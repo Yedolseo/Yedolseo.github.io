@@ -8,7 +8,7 @@ Name : ye jin Seo
 <p>grade : 1
 
 
-<p>## Information
+## Information
 
 ### About OSS
 Open source software (OSS) is software that publishes source code and satisfies an open source license that anyone can view and use without any limitations. It is also often referred to as open source for short.
