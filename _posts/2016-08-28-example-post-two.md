@@ -14,8 +14,13 @@ In order to finalize the music set top box product,
  - It is a design reminiscent of bees. 
  
  
-![Finished](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/bee.png)
+![Finished](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/bee.png)
 
+
+- This design was created by looking at the inside of the PBL room at Hanyang University.
+
+
+![room](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/room.png)
 
 
 
@@ -24,18 +29,13 @@ In order to finalize the music set top box product,
 
 
 
-![Finished](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/final3.png)
+![Finished](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/final3.png)
 
 
-![Finished](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/final2.png)
+![Finished](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/final2.png)
 
 
-![Finished](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/final.png)
+![Finished](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/final.png)
 
 
-
-- This design was created by looking at the inside of the PBL room at Hanyang University.
-
-
-![room](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/room.png)
 
