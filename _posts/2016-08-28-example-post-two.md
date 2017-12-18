@@ -25,7 +25,7 @@ In order to finalize the music set top box product,
 
 
 - we finished music set top box! Small and cute design is also good for interior use. 
-  You can use the buttons as a joystick.
+- You can use the buttons as a joystick.
 
 
 
