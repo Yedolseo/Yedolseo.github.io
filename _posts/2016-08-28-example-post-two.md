@@ -9,7 +9,7 @@ In order to finalize the music set top box product,
 <!-- more -->
 
 
-![lino](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/lino2.png)
+![lino](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/lino2.png)
 
  - It is a design reminiscent of bees. 
  
