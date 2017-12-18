@@ -8,13 +8,22 @@ In order to finalize the music set top box product,
 
 <!-- more -->
 
-<span class="image left"><img src="{{ "/캡처.PNG" | absolute_url }}" alt="" /></span>
-![lino](Yedolseo.github.io/_posts/캡처.PNG)
+![lino](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/lino2.png)
+
+ - It is a design reminiscent of bees. 
+![Finished](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/bee.png)
 
 
-<span class="image left"><img src="{{ "/그림1.PNG" | absolute_url }}" alt="" /></span>
+- we finished music set top box! Small and cute design is also good for interior use. 
+  You can use the buttons as a joystick.
+
+![Finished](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/final3.png)
+
+![Finished](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/final2.png)
+
+![Finished](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/final.png)
 
 
-
-<span class="image left"><img src="{{ "/그림2.PNG" | absolute_url }}" alt="" /></span>
+- This design was created by looking at the inside of the PBL room at Hanyang University.
+![room](https://github.com/Yedolseo/Yedolseo.github.io/blob/master/room.png)
 
