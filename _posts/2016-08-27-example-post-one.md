@@ -15,5 +15,5 @@ Music set-top box final presentation video and presentation
 - PPT 발표
 
 ![presentation1](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/presentation.png)
-![presentation1](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/pre2.png)
-![presentation1](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/pre3.png)
+![presentation2](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/pre2.png)
+![presentation3](https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/_posts/pre3.png)
