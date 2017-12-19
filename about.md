@@ -11,6 +11,7 @@ title: About Yedol
 -Age : 20
 -grade : 1
 -major : ICT fusion
+
 ```
 
 
@@ -99,6 +100,7 @@ All of the hands-on courses were teamed and students were able to find their own
 
 
  - We analyzed each problem step. also We set a specific period to actually complete it.
+ 
 ```
 ④ 실천계획(action plans)
 
