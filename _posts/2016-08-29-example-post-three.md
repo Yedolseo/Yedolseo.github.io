@@ -3,9 +3,10 @@ title: Music set-top box Code
 category: code
 ---
 
+```
 Implementing code for creating a music set-top box
 LCD / Button / Music Player
-
+```
 <!-- more -->
 
 
