@@ -10,7 +10,7 @@ Music set-top box final presentation video and presentation
 
 - 발표영상
 
-![Youtube](https://www.youtube.com/watch?v=3i_ZC3cKpwo)
+(https://www.youtube.com/watch?v=3i_ZC3cKpwo)
 -Youtube
 https://www.youtube.com/watch?v=3i_ZC3cKpw
 
