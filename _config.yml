@@ -60,4 +60,4 @@ encoding: utf-8 # Make sure the encoding is right
 title: "yedol" # Site name or title
 logo: "https://raw.githubusercontent.com/Yedolseo/Yedolseo.github.io/master/bee.png" # Site logo
 description: "A stupidly simple theme for Jekyll, using the official Jekyll theme implementation" # Site description and default description
-url: "https://yedolseo.github.io/" # Site url
+url: "https://yedolseo.github.io" # Site url
