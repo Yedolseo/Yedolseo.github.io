@@ -3,11 +3,11 @@ title: Music set top box 3D printing
 category: 3D Printing
 ---
 
-<p>
 
+```
 In order to finalize the music set top box product,
-<p>3D printing is used to put raspberry pie and breadboard.
-
+3D printing is used to put raspberry pie and breadboard.
+```
 <!-- more -->
 
 
