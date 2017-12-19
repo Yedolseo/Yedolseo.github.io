@@ -2,6 +2,9 @@
 title: About Yedol
 ---
 
+
+## \<Information>
+
 ```
 -Name : ye jin Seo 
 -School : Hanyang University erica campus
@@ -10,7 +13,6 @@ title: About Yedol
 -major : ICT fusion
 ```
 
-## Information
 
 ### About OSS
 ```
