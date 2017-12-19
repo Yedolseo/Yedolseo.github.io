@@ -7,6 +7,7 @@ Name : ye jin Seo
 <p>School : Hanyang University erica campus
 <p>Age : 20
 <p>grade : 1
+<p>major : ICT fusion
 <p>
 ```
 
